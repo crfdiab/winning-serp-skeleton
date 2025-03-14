@@ -1,0 +1,11 @@
+
+# robots.txt for winningserp.com
+
+User-agent: *
+Allow: /
+
+# Disallow admin pages
+Disallow: /admin/
+
+# Sitemaps
+Sitemap: https://winningserp.com/sitemap.xml
